@@ -1,11 +1,16 @@
 _repo: The-Geologic-Story-of-the-Great-Plains_63396
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63396-h/images/cover.jpg
 creator:
   author:
     agent_name: Trimble, Donald E.
     gutenberg_agent_id: '52418'
     url: http://www.gutenberg.org/2009/agents/52418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63396#The-Geologic-Story-of-the-Great-Plains
 gutenberg_issued: '2020-10-06'
 gutenberg_type: Text
 identifiers:
